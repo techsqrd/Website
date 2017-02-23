@@ -1,0 +1,17 @@
+/*
+Theme Name:     Katla by Bluthemes - Child Theme
+Theme URI:      http://www.bluthemes.com/themes/katla/
+Description:    Child theme for Katla
+Author:         Bluthemes
+Author URI:		http://bluthemes.com
+Template:       blt-katla                
+Version:        0.1.0
+*/
+
+@import url("../blt-katla/style.css");
+div.avatar{
+    display: inline-block;
+    width: 40px;
+    margin-right: 12px;
+    padding: 5px 0 0;
+}
